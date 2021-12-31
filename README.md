@@ -1,6 +1,6 @@
 # Hello!
 
-I'm James Burns, a full-stack developer born and living in the USA. I taught myself how to program in Python and Javascript in highschool before I went to Old Dominion University (go Monarchs!) to earn my bachelor's in computer science with a minor in cybersecurity.
+I'm James Burns, a full-stack developer born and living in the USA. I taught myself how to program in Python and Javascript in high school before I went to Old Dominion University (go Monarchs!) to earn my bachelor's in computer science with a minor in cybersecurity.
 
 I love programming. I've been a passionate learner my entire life, and this field is limitless in its possibility to discover and explore new concepts and technologies. I dream of living forever in pursuit of learning everything.
 
